@@ -1,3 +1,4 @@
-A lo largo de mi carrera profesinal me e dado de cuenta que excel es una herramienta muy util.
-ya que nos permite limpira analizar para obtener una buena toma de deciciones 
+# VENTAS 😊
+
+> En este proyecto podemos ver como  los vendedores hacen su mejor trabajo durante el año. por eso vemos refleajodo su conducta mediante la operacion mediante los dashboards 
 
