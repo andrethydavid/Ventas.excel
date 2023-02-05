@@ -8,3 +8,6 @@
  * ventas por tienda
  *  canales de compra 
  
+ ### Proyescto 
+
+> este proyescto se realiza con la herramienta excel ya que este medio puede manejar datos pequeños 
