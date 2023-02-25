@@ -11,3 +11,7 @@
  ### Proyescto 
 
 > este proyescto se realiza con la herramienta excel ya que este medio puede manejar datos pequeños 
+
+
+https://user-images.githubusercontent.com/72534486/221332501-dae10e65-d595-44a9-9ef3-5014b591c2a5.mp4
+
